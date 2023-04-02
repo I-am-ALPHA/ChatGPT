@@ -1,7 +1,7 @@
 ```
 [✅] Created by using ChatGPT 3.5 turbo model.
-     - Get OpenAI API key from https://platform.openai.com/account/api-keys and Replace it on key.json file.
      - Fork this Repo
+     - Get OpenAI API key from https://platform.openai.com/account/api-keys and Replace it on key.json file.
      - Then Tap on Deploy button and deploy. After deployment is finished toggle worker button in Resources tab and Go to View logs.
      - Scan QR and Use your own ChatGPT WhatsApp bot.
 ```
