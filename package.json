@@ -1,0 +1,33 @@
+{
+  "name": "ChatGPT",
+  "version": "1.0.0",
+  "description": "A WhatsApp based 3ʳᵈ party OPEN-AI application that provide AI generated results with a real-time automated conversational experience. 👾",
+  "main": "index.js",
+  "license": "GPL-3.0",
+  "scripts": {
+    "start": "pm2 start index.js --name ChatGPT && pm2 log ChatGPT",
+    "stop": "pm2 stop ChatGPT"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "@bochilteam/scraper": "^4.0.22-alpha.0",
+    "@hapi/boom": "^10.0.0",
+    "cheerio": "1.0.0-rc.12",
+    "fluent-ffmpeg": "^2.1.2",
+    "g-i-s": "^2.1.6",
+    "jimp": "^0.16.1",
+    "jsdom": "^16.4.0",
+    "link-preview-js": "^3.0.4",
+    "node-fetch": "2.6.9",
+    "node-webpmux": "^3.1.1",
+    "openai": "^3.2.1",
+    "os": "^0.1.2",
+    "pino": "^7.0.5",
+    "qrcode-terminal": "^0.12.0",
+    "sequelize": "^6.28.0",
+    "sqlite3": "5.1.4",
+    "sharp": "^0.30.5",
+    "util": "^0.12.4",
+    "xfarr-api": "latest"
+  }
+}

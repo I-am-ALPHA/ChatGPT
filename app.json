@@ -1,0 +1,31 @@
+{
+    "name": "ChatGPT",
+    "description": "A WhatsApp based 3ʳᵈ party application that provide many results with a real-time automated conversational experience. 👾",
+    "keywords": [
+        "ChatGPT",
+        "WhatsApp",
+        "A L P H A",
+        "multi-device"
+    ],
+    "repository": "https://github.com/I-am-ALPHA/ChatGPT",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+    "success_url": "https://dashboard.heroku.com/apps/",
+    
+    "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+        }
+    ],
+    "addons": [
+        {
+            "plan": "heroku-postgresql",
+            "options": {
+                "version": "13"
+            }
+        }
+    ],
+    "stack": "heroku-22"
+}
