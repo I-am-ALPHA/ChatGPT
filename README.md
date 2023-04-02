@@ -2,7 +2,9 @@
 [✅] Created by using ChatGPT 3.5 turbo model.
      - Fork this Repo
      - Get OpenAI API key from https://platform.openai.com/account/api-keys and Replace it on key.json file.
-     - Then Tap on Deploy button and deploy. After deployment is finished toggle worker button in Resources tab and Go to View logs.
+     - Then Tap on Deploy button and Create new app.
+     - Then go to Deploy tab and Connect to your GitHub.
+     - After deployment is finished toggle worker button in Resources tab and Go to View logs.
      - Scan QR and Use your own ChatGPT WhatsApp bot.
 ```
 <div align="center">
@@ -13,8 +15,6 @@
 **A WhatsApp based 3ʳᵈ party OPEN-AI application that provide AI generated results with a real-time automated conversational experience. 👾**
 
 **⚠️ Note: Make sure to replace your OpenAI API key in key.json before Deploy**
-     
-<img src=>
 
 ***Deploy on Heroku*** </br></br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
