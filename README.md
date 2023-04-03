@@ -10,7 +10,7 @@
 <div align="center">
 <h1><b>ChatGPT for WhatsApp</b></h1>
 
-![image](https://user-images.githubusercontent.com/94374721/224017100-67d77397-c6bf-4d8f-87b4-bddce74d8fac.png)
+![image](https://telegra.ph/file/40ece39d93249caba8b1f.jpg)
 
 **A WhatsApp based 3ʳᵈ party OPEN-AI application that provide AI generated results with a real-time automated conversational experience. 👾**
 
@@ -18,8 +18,7 @@
 
 ***Deploy on Heroku*** </br></br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-#
-**Contributor** <br><br>
+
 <a href="https://github.com/I-am-ALPHA"><img title="Author" src="https://img.shields.io/badge/Author-A L P H A-blue.svg?color=54aeff&style=for-the-badge&logo=github" /><br>
 
 </div>
