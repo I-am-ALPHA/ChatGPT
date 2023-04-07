@@ -18,7 +18,9 @@
 
 **⚠️ Note: Make sure to replace your OpenAI API key in key.json before Deploy**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+<a href="https://www.heroku.com/deploy/">
+<img src="https://assets.strapi.io/uploads/Deploy_button_heroku_b1043fc67d.png" />
+</a>
 
 ## Deploy on VPS.
  You need to Install git,ffmpeg,curl,nodejs,yarn with pm2 
